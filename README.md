@@ -189,29 +189,31 @@ Effective preoperative preparation is crucial for the successful surgical treatm
     * Use CT scans or MRI for complex fractures or when additional detail is required.
 
 ***Preoperative Planning***
-    * **Surgical Plan:** 
+   
+  * **Surgical Plan:**
       * Determine the appropriate surgical approach and fixation method based on the fracture type, location, and patient factors.
       * Plan for any potential complications or challenges.
-***Patient Counseling:*** 
-    * Discuss the surgical procedure, risks, benefits, and expected outcomes with the patient and their family.
-    * Obtain informed consent, ensuring the patient understands the importance of postoperative care and rehabilitation.
+  * **Patient Counseling:**
+      * Discuss the surgical procedure, risks, benefits, and expected outcomes with the patient and their family.
+      * Obtain informed consent, ensuring the patient understands the importance of postoperative care and rehabilitation.
  
 ***Preoperative Medical Optimization***
-    * **Medical Clearance:**
+    
+  * **Medical Clearance:**
        * Coordinate with the patient's primary care physician or relevant specialists to optimize any comorbid conditions (e.g., diabetes, hypertension).
        * Ensure the patient is medically stable for surgery.
-     * **Medications:**
+    * **Medications:**
          * Review the patient's current medications and adjust as necessary.
          * Administer prophylactic antibiotics to reduce the risk of infection.
          * Consider thromboprophylaxis to prevent venous thromboembolism.
      
-**Surgical Instruments and Equipment**
+***Surgical Instruments and Equipment***
 
-**Preparation of Surgical Instruments:**
-    * Ensure all necessary surgical instruments and implants are sterilized and available.
-    * Prepare any specialized equipment required for the chosen fixation method.
+   * **Preparation of Surgical Instruments:**
+       * Ensure all necessary surgical instruments and implants are sterilized and available.
+       * Prepare any specialized equipment required for the chosen fixation method.
  
-**Operating Room Setup:**
+   * **Operating Room Setup:**
      * Arrange the operating room to facilitate efficient workflow and access to necessary equipment.
      * Confirm the availability of imaging equipment (e.g., fluoroscopy) for intraoperative guidance.
   
@@ -231,3 +233,98 @@ Effective preoperative preparation is crucial for the successful surgical treatm
    * Position the patient on the operating table to provide optimal access to the surgical site.
    * Ensure proper padding and support to prevent pressure injuries during surgery.Skin Preparation:Perform antiseptic skin preparation to minimize the risk of infection.Drape the surgical area to maintain a sterile field.
 
+* **Skin Preparation:**
+   * Perform antiseptic skin preparation to minimize the risk of infection.Drape the surgical area to maintain a sterile field.
+   * Drape the surgical area to maintain a sterile field.
+   
+**Surgical Techniques** 
+
+Effective surgical treatment of leg fractures requires a thorough understanding of various techniques and the ability to choose the most appropriate method based on the specific fracture type and patient factors. This section provides detailed descriptions of the primary surgical techniques used in the management of leg fractures.
+
+***Closed Reduction and Casting***
+
+* **Indications:**
+     * Suitable for simple, stable fractures without significant displacement or comminution.
+     * Often used for pediatric patients.
+     
+* **Procedure:**
+     * Administer appropriate anesthesia or sedation.
+     * Manipulate the fracture fragments into anatomical alignment using gentle traction and pressure.
+     * Confirm reduction with fluoroscopic imaging.
+     * Apply a plaster or fiberglass cast to immobilize the fracture and maintain alignment.
+    
+* **Open Reduction and Internal Fixation (ORIF)**
+
+    * **Indications:**
+       * Displaced, unstable, or comminuted fractures.
+       * Intra-articular fractures requiring precise alignment.
+
+    * **Procedure:**
+       * Make a surgical incision over the fracture site.
+       * Expose and clean the fracture ends, removing any debris or hematoma.
+       * Reduce the fracture fragments to their anatomical position.
+       * Fix the fragments using appropriate hardware, such as screws, plates, or nails.
+       * Verify alignment with intraoperative fluoroscopy.
+       * Close the incision in layers and apply a sterile dressing.
+
+  **External Fixation**
+
+ **Indications:** 
+   * Open fractures with significant soft tissue injury.
+   * Fractures requiring temporary stabilization before definitive surgery.
+  
+   **Procedure:** 
+     * Place pins or wires into the bone fragments above and below the fracture site.
+     * Connect the pins or wires to an external frame to stabilize the fracture.
+     * Adjust the frame to achieve and maintain proper alignment.
+     * Monitor the pin sites for signs of infection and adjust the frame as needed during follow-up.
+     
+  **Intramedullary Nailing**
+ 
+   * **Indications:**
+      * Diaphyseal fractures of the femur or tibia.
+      * Suitable for both closed and open fractures.
+      
+   *  **Procedure:**
+       * Make a small incision at the entry point (proximal femur or tibia).
+       * Insert a guidewire through the medullary canal across the fracture site.
+       * Ream the medullary canal to the appropriate size.
+       * Insert an intramedullary nail over the guidewire.
+       * Lock the nail with proximal and distal screws to prevent rotation and shortening.
+       * Confirm proper nail placement with intraoperative fluoroscopy.
+       
+      ***Plate Fixation***
+
+       **Indications:**
+        * Comminuted fractures or fractures involving the joint surface.
+        * Fractures requiring additional stability.
+
+      **Procedure:**
+       * Make a surgical incision over the fracture site.
+       * Reduce the fracture fragments to their anatomical position.
+       * Apply a precontoured plate along the bone surface.
+       * Fix the plate with screws, ensuring secure fixation of all fragments.
+       * Confirm alignment with intraoperative fluoroscopy.
+       * Close the incision in layers and apply a sterile dressing.
+      
+      ***Minimally Invasive Techniques***
+     
+      * **Indications:**
+         * Suitable for select fractures where soft tissue preservation is critical.
+         * Fractures amenable to percutaneous fixation.
+
+      * **Procedure:**
+         * Make small incisions or use stab wounds for instrument insertion.
+         * Use fluoroscopic guidance to manipulate and reduce the fracture.
+         * Insert percutaneous screws, pins, or wires to stabilize the fracture.
+         * Confirm reduction and fixation with intraoperative fluoroscopy.
+         * Apply a sterile dressing to the small incisions.
+     
+      ***Handling Complications During Surgery***
+     
+      * **Intraoperative Complications:**
+         * Be prepared to address complications such as excessive bleeding, nerve or vessel injury, and difficulty in achieving reduction.
+         * Have contingency plans and additional equipment ready.
+
+      * **Postoperative Monitoring:**
+         * Regularly monitor the patient for signs of complications such as infection, hardware failure, or delayed union.Implement prompt interventions as needed.

@@ -1,4 +1,4 @@
-# A Surgeon's Handbook Guide on How to Carefully Fix a Broken Leg
+# A Surgeon's Handbook Guide: How to Carefully Fix a Broken Leg
  **Author:** Emmanuel Osemudiamen 
 ## Table of Contents
 - [Introduction](#introduction)
